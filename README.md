@@ -1,3 +1,6 @@
+
+## Projeto Criado a partir do curso de react starter da Rocketseat
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
